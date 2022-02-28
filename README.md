@@ -15,3 +15,8 @@ Lag et program (nettside) med bilde av de tre bilene du la inn i oppgave 1-2. Ov
 
 ## EKSTRA - Oppgave 4: Håndbremse
 Lag en knapp under hver bil for "Håndbremse". Denne knappen skal fungere slik at hvis håndbremsen er på blir farten satt til 0, og det skal ikke være mulig å øke farten så lenge håndbremsen er på. Bruk metoder for å få til dette.
+
+# Bakgrunnsstoff til oppgaven
+* Objektorientert programmering: [Object-oriented programming (developer.mozilla.org)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming)
+* Klasser i Javascript: [Classes in JavaScript (developer.mozilla.org)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
+* Klasser i Javascript: [JavaScript Classes (w3schools.com)](https://www.w3schools.com/js/js_classes.asp)
